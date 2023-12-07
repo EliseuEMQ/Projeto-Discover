@@ -1,4 +1,4 @@
-![Cover](https://github.com/EliseuEMQ/Projeto-Discover/assets/151771510/5156f2b1-891a-4bb3-84c9-10474c02125e)
+
 
 
 
@@ -25,8 +25,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  
 </p>
+
+![Cover](https://github.com/EliseuEMQ/Projeto-Discover/assets/151771510/5156f2b1-891a-4bb3-84c9-10474c02125e)
 
 ## 🚀 Tecnologias
 
